@@ -16,6 +16,10 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
+# Program Name : Square-root-of-a-number
+# Name : SANJAYKUMAR N B
+# Register Number : 212223230189
+
 def newtonmtd(num,iter=100):
    a=float(num)
    for i in range(iter):
